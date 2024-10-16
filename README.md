@@ -32,4 +32,4 @@ Here are some of the projects I’ve worked on:
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via email at [KaraboKJaz03@gmail.com].
+Feel free to reach out to me via email at [KaraboJaz03@gmail.com].
