@@ -29,6 +29,11 @@ Here are some of the projects I’ve worked on:
 **Description**: Briefly describe the project, its goals, and any notable features.\
 **Technologies**: Node.js, Express.js, MongoDB
 
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+
 
 ## 📫 Contact Me
 
