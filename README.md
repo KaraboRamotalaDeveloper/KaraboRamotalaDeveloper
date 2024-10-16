@@ -21,13 +21,23 @@ Hello! I am Ramotala Karabo, a passionate web developer based in Johannesburg, S
 
 Here are some of the projects I’ve worked on:
 
-### Project 1: [Project Name]
-**Description**: Briefly describe the project, its goals, and any notable features.\
-**Technologies**: HTML, CSS, JavaScript, React
+### Project 1: Landing Page Website for A Digital Bank
+**Description**: 
+Built a landing page website for an imaginary cache bank. This project showcases my web design and development skills, with high attention to responsiveness, interactivity, accessibility and client friendly and user experience centric.\
 
-### Project 2: [Project Name]
-**Description**: Briefly describe the project, its goals, and any notable features.\
-**Technologies**: Node.js, Express.js, MongoDB
+[https://github.com/RamotalaKarabo/SDF_Portfolio_Piece_CS20240182_WF02407_B_Karabo-Ramotala_SDF11]GitHub link of the project:
+
+
+**Technologies**: HTML, CSS, JavaScript, Tailwind
+
+### Project 2: Kanban Board Task Management (Agile Board)
+**Description**: 
+Developed a fully functional task management board using HTML, CSS and JavaScript. This project substantiates my critical thinking and problem-solving skills, understanding of data structures and algorithms, and ability to build state management-based applications.t\
+
+Below is the GitHub link to the project:
+https://github.com/RamotalaKarabo/JSL_Portfolio_Piece_CS20240182_WF02407_B_Karabo-Ramotala_JSL11.git
+
+**Technologies**: JavaScript, HTML, CSS, TypeScript
 
 ## 📈 GitHub Stats
 
