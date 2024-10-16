@@ -25,7 +25,7 @@ Here are some of the projects I’ve worked on:
 **Description**: 
 Built a landing page website for an imaginary cache bank. This project showcases my web design and development skills, with high attention to responsiveness, interactivity, accessibility and client friendly and user experience centric.\
 
-GitHub link of the project: [https://github.com/RamotalaKarabo/SDF_Portfolio_Piece_CS20240182_WF02407_B_Karabo-Ramotala_SDF11]
+GitHub link of the project: [(https://github.com/KaraboRamotalaDeveloper/Landing-Page.git)]
 
 
 **Technologies**: HTML, CSS, JavaScript, Tailwind
@@ -34,7 +34,7 @@ GitHub link of the project: [https://github.com/RamotalaKarabo/SDF_Portfolio_Pie
 **Description**: 
 Developed a fully functional task management board using HTML, CSS and JavaScript. This project substantiates my critical thinking and problem-solving skills, understanding of data structures and algorithms, and ability to build state management-based applications.t\
 
-GitHub link to the project: [https://github.com/RamotalaKarabo/JSL_Portfolio_Piece_CS20240182_WF02407_B_Karabo-Ramotala_JSL11.git]
+GitHub link to the project: [https://github.com/KaraboRamotalaDeveloper/Kanban-Board-Task-Management-Board-.git]
 
 
 **Technologies**: JavaScript, HTML, CSS, TypeScript
