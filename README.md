@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Ramotala Karabo]
+# 👋 Hello, I'm Ramotala Karabo
   **South Africa**
 
 🌐 **Web Developer**
@@ -7,7 +7,7 @@
 
 ## About Me
 
-Hello! I am [Ramotala Karabo], a passionate web developer based in Johannesburg, South Africa. With expertise in both front-end and back-end technologies, I strive to create impactful digital experiences. My journey in web development is driven by a love for coding, design, and continuous learning.
+Hello! I am Ramotala Karabo, a passionate web developer based in Johannesburg, South Africa. With expertise in both front-end and back-end technologies, I strive to create impactful digital experiences. My journey in web development is driven by a love for coding, design, and continuous learning.
 
 ## 🛠️ Skills & Technologies
 
@@ -29,14 +29,7 @@ Here are some of the projects I’ve worked on:
 **Description**: Briefly describe the project, its goals, and any notable features.\
 **Technologies**: Node.js, Express.js, MongoDB
 
-### Project 3: [Project Name]
-**Description**: Briefly describe the project, its goals, and any notable features.\
-**Technologies**: TypeScript, React
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via email at [your email address].
+Feel free to reach out to me via email at [KaraboKJaz03@gmail.com].
