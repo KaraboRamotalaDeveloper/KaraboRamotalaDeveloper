@@ -34,7 +34,7 @@ GitHub link of the project: [(https://github.com/KaraboRamotalaDeveloper/Landing
 **Description**: 
 Developed a fully functional task management board using HTML, CSS and JavaScript. This project substantiates my critical thinking and problem-solving skills, understanding of data structures and algorithms, and ability to build state management-based applications.t\
 
-GitHub link to the project: [https://github.com/KaraboRamotalaDeveloper/Kanban-Board-Task-Management-Board-.git]
+GitHub link to the project: [(https://github.com/KaraboRamotalaDeveloper/Kanban-Board-Task-Management-Board-.git)]
 
 
 **Technologies**: JavaScript, HTML, CSS, TypeScript
