@@ -13,8 +13,8 @@ Hello! I am Ramotala Karabo, a passionate web developer based in Johannesburg, S
 
 - **Front-end**: HTML, CSS, JavaScript, React, Tailwind CSS
 - **Back-end**: Node.js, Express.js, Java
-- **Database**: MongoDB,MySQL, PosgreSQL
-- **Languages**: Java, TypeScript
+- **Database**: MongoDB,MySQL, PostgreSQL
+- **Languages**: Java, JavaScript, TypeScript
 - **Tools**: Git, GitHub, VS Code,Intellij IDEA,  npm, vite
 
 ## 🔧 Projects
